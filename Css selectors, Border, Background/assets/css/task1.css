@@ -1,0 +1,231 @@
+
+body{
+    background-color: #212B2D;
+}
+
+.container1{
+    width: 1074px;
+    margin-left: 204px;
+    
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second .second-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    border: 1px solid  black;
+    background-color: #365459;
+    background-image: url(../img/officelocations3.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+.title .header{
+    margin-left: 30px;
+}
+
+.title .header h1{
+
+        margin-bottom: 11px;
+        margin-left: 0;
+    color: #7e9ea7;
+    font-size: 41px;
+}
+
+.title .header span{
+    color: #7e9ea7;
+    font-size: 41px;
+}
+
+
+.container1 .navbar{
+    background-color: #5b6f73;
+    margin-top: -10px;
+    
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    height: 27px;
+    padding: 10px;
+}
+
+.navbar ul li{
+  
+    list-style: none;
+}
+
+.navbar ul li::after{
+  
+    content: "|";
+    margin-left: 40px;
+    color: #365459;
+    font-size: 20px;
+}
+
+.navbar ul li a{
+    color: #dcf2f9;
+    text-decoration: none;
+}
+
+
+
+
+.navbar2{
+    display: inline-block;
+    border-bottom: 1px solid  #293437;
+    border-left: 1px solid #293437;
+}
+
+.navbar2 h2{
+    color: #7e9ea7;
+    margin-left: 54px;
+}
+
+.navbar2 ul li a{
+    color: #c2d5db;
+   
+}
+
+.navbar2 ul li{
+    margin-top: 5px;
+    list-style: none;
+  
+}
+
+.navbar2 ul{
+    margin: 0;
+    padding: 0;
+    margin-left: 14px;
+}
+
+.navbar2 ul pre{
+    display: inline;
+    color: #c2d5db;
+}
+ 
+
+
+
+
+
+.text{
+
+    /* display: inline-block; */
+    width: 237px;
+    height: 184px;
+    border-bottom: 1px solid  #293437;
+    border-left: 1px solid #293437;
+}
+
+.text h2{
+    color: #7e9ea7;
+    margin-top: 26px;
+    margin-left: 23px;
+}
+.text p{
+    font-size: 17px;
+    margin-left: 18px;
+    color: #7e9ea7;
+}
+.text .text1{
+    width: 200px;
+    height: 100px;
+    
+}
+ 
+.text .text1 p{
+    color: #7e9ea7;
+    font-size: 10px;
+}
+
+
+
+.text .text3{
+    border: 1px solid #c2d5db;
+    width: 200px;
+    height: 300px;
+
+}
+
+
+
+.gallery h2{
+    color: #7e9ea7;
+
+    width: 782px;
+}
+
+
+
+
+.gallery  p{
+    color: #a3b2b9;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.second .gallery .border{
+    width: 834px;
+    height: 0px;
+    border: 1px solid #a1bdc6;
+}
+
+.second-box .subs h1{
+    color: #7e9ea7;
+}
+
+.second-box .subs .text3 p{
+    color: #a3b2b9;
+    font-size: 13px;
+    font-family: sans-serif;
+    width: 72%;
+}
+
+.second-box button{
+    width: 86px;
+    height: 30px;
+    background-color: #7e9ea7;
+    color:#0c1b1f;
+    font-size: 10px;
+
+}
+
+
+
+
+
+.second .second-box .other{
+    margin-left: 20px;
+}
+
+.second-box .other h1{
+    color: #7e9ea7;
+}
+
+
+
+
+.second-box .other .text3 p{
+    color: #a3b2b9;
+    font-size: 13px;
+    font-family: sans-serif;
+    width: 72%;
+   
+}
+
+
+.border1{
+    width: 10%;
+    border-right: 1px solid  #8da8b0;
+    margin-top: 20px;
+}
+
